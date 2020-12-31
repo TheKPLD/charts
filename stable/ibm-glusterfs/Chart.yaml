@@ -21,4 +21,4 @@ keywords:
   - ICP
   - Storage
   - IcpClusterResource
-kubeVersion: '>=1.9.0'
+kubeVersion: '>=v1.20.0-37+6252d1e153c00f'
